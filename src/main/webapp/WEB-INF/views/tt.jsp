@@ -2,14 +2,12 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>TT</title>
 </head>
 <body>
 <h1>
-	Hello world!  
+	TT world!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
-<a href="./tt">Move!</a>
 </body>
 </html>
